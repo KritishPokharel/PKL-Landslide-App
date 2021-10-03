@@ -1,4 +1,5 @@
-PKL (PKL Knows Landslide)
+# PKL (PKL Knows Landslide)
+# Install the PLK.apk in you android phone to use our app.
 
 
 HIGH-LEVEL PROJECT SUMMARY
@@ -9,8 +10,7 @@ Have you ever thought of getting to know anything before it actually happens? We
 LINK TO PROJECT "DEMO"
 https://www.canva.com/design/DAErqk8p9Sc/7vUWUDl3c_7pU6kIWCv1fw/view?utm_content=DAErqk8p9Sc&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishpresent
 
-# USE THE APP
-# Install the PLK.apk in you android phone to use our app.
+
 
 Please go through the chart below to understand the workflow of the app
 
