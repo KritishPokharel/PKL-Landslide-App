@@ -1,4 +1,4 @@
-// Note: The website https://landslidespaceapp.neplinews.com/ is our own wesbite whose source code could be found in the template folder in our github repo. 
+// Note: The website https://landslidespaceapp.neplinews.com/ is our own wesbite whose source code could be found in the visualization/LandslideCatalogue folder in our github repo. 
 //The website contains the map we developed to represent past data of landslide and is connected natively in the app.
 
 import 'package:flutter/material.dart';

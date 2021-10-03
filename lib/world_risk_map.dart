@@ -1,4 +1,4 @@
-// Note: The website https://education.neplinews.com/ is our own wesbite whose source code could be found in the template folder in our github repo.
+// Note: The website https://education.neplinews.com/ is our own wesbite whose source code could be found in the Visualization/Global Nowcast folder in our github repo.
 //The website contains the polygonal map we developed to represent landslide and is connected natively in the app.
 
 import 'package:flutter/material.dart';
