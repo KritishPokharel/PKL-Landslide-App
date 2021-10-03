@@ -10,5 +10,5 @@ https://www.canva.com/design/DAErqk8p9Sc/7vUWUDl3c_7pU6kIWCv1fw/view?utm_content
 
 #Please go through the chart below to understand the workflow of the app
 
-![image](https://user-images.githubusercontent.com/67674035/135764116-01f7fc1e-1361-4c45-b612-4caeb6594077.png)
+![image](https://user-images.githubusercontent.com/67851367/135764253-9f6676ca-df00-47ae-ab80-67841b612877.png)
 
