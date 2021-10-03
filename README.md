@@ -1,5 +1,5 @@
 # PKL (PKL Knows Landslide)
-# Install the PLK.apk in you android phone to use our app.
+# Install the PKL.apk in you android phone to use our app.
 
 
 HIGH-LEVEL PROJECT SUMMARY
