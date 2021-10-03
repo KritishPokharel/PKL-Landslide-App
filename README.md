@@ -1,7 +1,7 @@
-#PKL (PKL Knows Landslide)
+PKL (PKL Knows Landslide)
 
 
-#HIGH-LEVEL PROJECT SUMMARY
+HIGH-LEVEL PROJECT SUMMARY
 Have you ever thought of getting to know anything before it actually happens? Well, now thanks to Data Science and Machine Learning it has been possible to predict things. Landslides are a serious issue, particularly in nations like Nepal, which has extensive Himalayas but no substantial technical developments. PKL (PKL Knows Landslide) is a Machine Learning-based project that lets you anticipate Landslides in advance. It is essentially an app that utilizes NASA data to forecast landslides and displays the most dangerous areas nearby. Furthermore, individuals may report a landslide near them, the data from which can be utilized to improve the model.
 
 LINK TO PROJECT "DEMO"
