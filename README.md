@@ -1,6 +1,5 @@
 # PKL (PKL Knows Landslide)
-#Build for Designing a Sustainable Future using ICTs Hackathon by 
-ITU, United Nations & TDRA, UAE & Nasa Space App Challenge-2021
+Build for Designing a Sustainable Future using ICTs Hackathon by ITU, United Nations & TDRA, UAE & Nasa Space App Challenge-2021
 # Install the PKL.apk in you android phone to use our app.
 
 
